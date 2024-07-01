@@ -15,4 +15,4 @@ scipy library: Install with pip install scipy
 Run the script:
 Replace pe_file.exe with the path to the PE file you want to analyze.
 
-  python inside_pe.py pe_file.exe
+    python inside_pe.py pe_file.exe
